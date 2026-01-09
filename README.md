@@ -279,8 +279,7 @@ Hash(Password + Pepper + IdentitySalt)
 
 ⸻
 
-## License
+## MIT License
 
-This project is provided for portfolio and educational purposes.
-
+Designed as a reference implementation for secure financial systems.
 
